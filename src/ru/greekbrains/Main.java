@@ -24,8 +24,5 @@ public class Main {
         System.out.println(phoneBook.get("Zaderishenkov"));
         System.out.println(phoneBook.get("Kozlov"));
         System.out.println(phoneBook.get("Demidov"));
-        System.out.println();
-
-
     }
 }
